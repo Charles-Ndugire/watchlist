@@ -1,3 +1,6 @@
 # watchlist
-##Live link
-https://watchlist-2-flask.herokuapp.com/#
+
+
+## Live Link
+Click here to [View app](https://watchlist-2-flask.herokuapp.com/)
+
